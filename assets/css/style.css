@@ -1,6 +1,6 @@
 html
  {
-background: aliceblue;}
+background: white  ;}
 
 /* General Styles */
 
@@ -35,6 +35,8 @@ p {
 	line-height: 20px;
 }
 
+section#intro {background-color: #EFFFFB}
+.data-collection {background-color: #DEF0EB} 
 
 li
 {color: #000671; 
@@ -123,6 +125,15 @@ section#data-collection {
 }
 @media screen and (min-width:1080px) {
   section#data-collection {
+    grid-template-columns: 400px 1fr;}
+}
+section#further-implications {
+  display: grid;
+  grid-gap: 15px;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr))  
+}
+@media screen and (min-width:1080px) {
+  section#further-implications {
     grid-template-columns: 400px 1fr;}
 }
 
