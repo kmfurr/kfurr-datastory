@@ -17,7 +17,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="DataViz1.svg">
+   sodipodi:docname="DataVizRevised.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35267857"
-     inkscape:cx="690.92514"
-     inkscape:cy="386.48308"
+     inkscape:zoom="0.49876282"
+     inkscape:cx="561.54491"
+     inkscape:cy="462.65876"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="svg8"
      showgrid="true"
      showguides="false"
      units="in"
@@ -550,7 +550,7 @@
        id="path7268"
        inkscape:connector-curvature="0" />
     <path
-       id="path13284"
+       id="laptop"
        d="m 187.78808,198.66833 q -1.90997,0 -3.2701,-1.37155 -1.36012,-1.37155 -1.36012,-3.29756 V 173.4551 q 0,-1.92602 1.36012,-3.29758 1.36013,-1.37155 3.2701,-1.37155 h 31.48541 q 1.90996,0 3.27008,1.37155 1.36012,1.37156 1.36012,3.29758 v 20.54412 q 0,1.92601 -1.36012,3.29756 -1.36012,1.37155 -3.27008,1.37155 z m -0.92606,-25.21323 v 20.54412 q 0,0.37936 0.27492,0.65659 0.27493,0.27723 0.65114,0.27723 h 31.48541 q 0.37621,0 0.65112,-0.27723 0.27491,-0.27723 0.27491,-0.65659 V 173.4551 q 0,-0.37938 -0.27491,-0.65661 -0.27491,-0.27722 -0.65112,-0.27722 h -31.48541 q -0.37621,0 -0.65114,0.27722 -0.27492,0.27723 -0.27492,0.65661 z m 39.8198,27.08088 h 4.63021 v 2.80147 q 0,1.16728 -1.36013,1.98438 -1.36012,0.81709 -3.27008,0.81709 h -46.30208 q -1.90996,0 -3.27009,-0.81709 -1.36012,-0.8171 -1.36012,-1.98438 v -2.80147 z m -20.83593,2.80147 q 0.46301,0 0.46301,-0.46691 0,-0.46691 -0.46301,-0.46691 h -4.63021 q -0.46303,0 -0.46303,0.46691 0,0.46691 0.46303,0.46691 z"
        inkscape:connector-curvature="0"
        style="stroke-width:0.02906013" />
@@ -584,7 +584,8 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <g
-       id="g13810">
+       id="Clock"
+       inkscape:label="#clock">
       <g
          id="g13584">
         <path
@@ -767,7 +768,7 @@
      sodipodi:insensitive="true">
     <g
        id="L_-_click"
-       inkscape:label="#g13416"
+       inkscape:label="#L_c"
        transform="translate(-2.6458334,-14.81667)">
       <path
          inkscape:connector-curvature="0"
@@ -776,48 +777,57 @@
          style="display:inline;fill:#120007;fill-opacity:1;stroke:#0d0005;stroke-width:0.07566687px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <text
          id="text7479"
-         y="158.80359"
-         x="24.28808"
-         style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.26458332"
-           y="158.80359"
-           x="24.28808"
+         y="154.40529"
+         x="24.406572"
+         style="font-style:normal;font-weight:normal;font-size:3.43007064px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25725529"
+         xml:space="preserve"
+         transform="scale(0.97230354,1.0284854)"><tspan
+           style="stroke-width:0.25725529"
+           y="154.40529"
+           x="24.406572"
            id="tspan7477"
-           sodipodi:role="line">Represents I clicked to </tspan><tspan
+           sodipodi:role="line">Represents that I clicked to </tspan><tspan
            id="tspan7481"
-           style="stroke-width:0.26458332"
-           y="163.21332"
-           x="24.28808"
-           sodipodi:role="line">website from the ad </tspan></text>
+           style="stroke-width:0.25725529"
+           y="158.69287"
+           x="24.406572"
+           sodipodi:role="line">the website from the ad </tspan></text>
     </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="14.013233"
-       y="6.5788121"
-       id="text6936"><tspan
+       x="13.482754"
+       y="7.1092916"
+       id="text_title"
+       inkscape:label="#text_t"><tspan
          sodipodi:role="line"
          id="tspan6934"
-         x="14.013233"
-         y="6.5788121"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.26458332">Legend</tspan></text>
+         x="13.482754"
+         y="7.1092916"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332">Legend</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="5.2588511"
-       y="164.82971"
-       id="text7489"><tspan
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30793104"
+       x="41.606632"
+       y="140.95647"
+       id="text_read"
+       transform="scale(0.87851407,1.1382857)"
+       inkscape:label="#text_r"><tspan
          sodipodi:role="line"
          id="tspan7487"
-         x="5.2588511"
-         y="164.82971"
-         style="stroke-width:0.26458332">Attribute organized by time of day </tspan><tspan
+         x="42.280495"
+         y="140.95647"
+         style="font-size:4.23333311px;text-align:center;text-anchor:middle;stroke-width:0.30793104">Attributes are organized by </tspan><tspan
          sodipodi:role="line"
-         x="5.2588511"
-         y="169.23944"
-         style="stroke-width:0.26458332"
-         id="tspan7491">Follow circle as sunrise to sunset </tspan></text>
+         x="42.280495"
+         y="146.24814"
+         style="font-size:4.23333311px;text-align:center;text-anchor:middle;stroke-width:0.30793104"
+         id="tspan562">time of day. </tspan><tspan
+         sodipodi:role="line"
+         x="41.606632"
+         y="151.53979"
+         style="font-size:4.23333311px;text-align:center;text-anchor:middle;stroke-width:0.30793104"
+         id="tspan7491">Follow circle as a 24 hour clock</tspan></text>
     <path
        style="display:inline;fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 3.4713412,140.19745 c 0,-0.73025 14.2239998,-1.32292 31.7499988,-1.32292 m 0,2.64584 h -10e-7 c -17.526,0 -31.7500002,-0.59267 -31.7500002,-1.32292 0,-0.73025 14.2240002,-1.32292 31.7500002,-1.32292 h 10e-7 m 0,2.64584 c -17.525999,0 -31.7499988,-0.59267 -31.7499988,-1.32292"
@@ -832,7 +842,7 @@
        inkscape:connector-curvature="0" />
     <g
        id="L_-_Platforms"
-       inkscape:label="#g13394"
+       inkscape:label="#L_p"
        transform="translate(-2.6458335,-15.004223)">
       <circle
          r="2.3809526"
@@ -878,7 +888,7 @@
            y="131.81291"
            x="9.4460287"
            id="tspan7285"
-           sodipodi:role="line">PLATFORMS</tspan></text>
+           sodipodi:role="line">Platforms </tspan></text>
       <text
          id="text7291"
          y="150.14619"
@@ -906,7 +916,7 @@
     </g>
     <g
        id="L-engage_length"
-       inkscape:label="#g13410"
+       inkscape:label="#Leg"
        transform="translate(-2.6458334,-14.81667)">
       <circle
          transform="scale(1,-1)"
@@ -1017,7 +1027,8 @@
        id="path13298"
        inkscape:connector-curvature="0" />
     <g
-       id="g13643">
+       id="E_evening"
+       inkscape:label="#E_e">
       <g
          id="g6622-6"
          style="display:inline;fill:#00a8f0;fill-opacity:1"
@@ -1224,7 +1235,7 @@
     </g>
     <g
        id="E_Afternoon"
-       inkscape:label="#g13708">
+       inkscape:label="#E_a">
       <g
          transform="translate(17.991669,-108.08749)"
          id="g13345"
@@ -1590,7 +1601,7 @@
      transform="translate(0,76.2)"
      sodipodi:insensitive="true">
     <g
-       id="g7053"
+       id="phone"
        transform="translate(17.991669,-14.287502)">
       <path
          inkscape:connector-curvature="0"
