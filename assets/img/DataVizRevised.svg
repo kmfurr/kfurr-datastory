@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49876282"
-     inkscape:cx="561.54491"
-     inkscape:cy="462.65876"
+     inkscape:zoom="1.4107143"
+     inkscape:cx="238.19889"
+     inkscape:cy="150.76003"
      inkscape:document-units="mm"
-     inkscape:current-layer="svg8"
+     inkscape:current-layer="layer8"
      showgrid="true"
      showguides="false"
      units="in"
@@ -764,12 +764,11 @@
      id="layer8"
      inkscape:label="Legend"
      style="display:inline"
-     transform="translate(0,25.4)"
-     sodipodi:insensitive="true">
+     transform="translate(0,25.4)">
     <g
        id="L_-_click"
        inkscape:label="#L_c"
-       transform="translate(-2.6458334,-14.81667)">
+       transform="matrix(0.98714605,0,0,1.0000444,-2.4808232,-14.823769)">
       <path
          inkscape:connector-curvature="0"
          id="path5008-0-0-6"
@@ -785,13 +784,13 @@
            style="stroke-width:0.25725529"
            y="154.40529"
            x="24.406572"
-           id="tspan7477"
-           sodipodi:role="line">Represents that I clicked to </tspan><tspan
-           id="tspan7481"
+           sodipodi:role="line"
+           id="tspan264">Represents that I clicked the</tspan><tspan
            style="stroke-width:0.25725529"
            y="158.69287"
            x="24.406572"
-           sodipodi:role="line">the website from the ad </tspan></text>
+           sodipodi:role="line"
+           id="tspan268">ad to visit the website</tspan></text>
     </g>
     <text
        xml:space="preserve"
