@@ -61,9 +61,6 @@ div.video-container iframe {
   height: 100%;
 }
 
-figcaption {
-  text-align: center;
-}
 
 /* Grid */
 
@@ -87,45 +84,6 @@ figcaption {
 
 
 
-/* 
-.media-wrapper { 
-grid-templete-columns: 1fr 1fr;
-grid-gap: 20px;
-margin-bottom: 50px;}
- */
-
-
-/* Responsive grid */
-
-/* 
-section#intro {
-  display: grid;
-  grid-gap: 15px;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr))  
-}
-@media screen and (min-width:1080px) {
-  section#intro {
-    grid-template-columns: 400px 1fr;}
-}
-section#data-collection {
-  display: grid;
-  grid-gap: 15px;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr))  
-}
-@media screen and (min-width:1080px) {
-  section#data-collection {
-    grid-template-columns: 400px 1fr;}
-}
-section#further-implications {
-  display: grid;
-  grid-gap: 15px;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr))  
-}
-@media screen and (min-width:1080px) {
-  section#further-implications {
-    grid-template-columns: 400px 1fr;}
-}
- */
 
 
   
